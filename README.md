@@ -1,2 +1,2 @@
 # MVC
-Continuação do projeto Mulheres em Tech para o segundo módulo do curso técnico de DS da Etec 
+Continuação do projeto Recode Viagens com criação de projeto utilizando o padrão MVC para o sexto módulo do Programa Recode Pro 2022. 
